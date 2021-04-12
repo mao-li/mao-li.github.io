@@ -25,6 +25,15 @@ email: mailto:wangyuanxu0916@qq.com
 github: https://github.com/mao-li
 rss: true
 
+
+
+site_statistics: true
+cnzz (友盟统计)
+cnzz_id:
+Baidu (百度统计)
+baidu_id:
+Google Analytics (谷歌统计)
+google_id:
 copy_with_declaration: true
 reward: false
 # reward_description: 如果你觉得本文对你有帮助，不妨请我喝杯咖啡
