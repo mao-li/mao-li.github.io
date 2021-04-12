@@ -14,8 +14,8 @@ defaults:
     values:
       image: true
 
-title: 王元旭的博客
-name: 毛栗
+title: 王元旭的世界
+name: 王元旭
 description: 一个人的命运啊，当然要靠自我奋斗，但是也要考虑历史的进程
 
 show_excerpt: true
