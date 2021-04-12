@@ -14,10 +14,11 @@ defaults:
     values:
       image: true
 
-title: 王元旭的世界
-name: 王元旭
+title: maoli的世界
+name: maoli
 description: 一个人的命运啊，当然要靠自我奋斗，但是也要考虑历史的进程
-
+url: https://mao-li.github.io
+copyright_time: 2021
 show_excerpt: true
 
 twitter: https://twitter.com/maoli_nb
