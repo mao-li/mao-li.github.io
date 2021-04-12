@@ -29,7 +29,7 @@ copy_with_declaration: true
 reward: true
 reward_description: 如果你觉得本文对你有帮助，不妨请我喝杯咖啡
 
-theme: jekyll-theme-minimalism
+
 
 plugins:
   - rouge
